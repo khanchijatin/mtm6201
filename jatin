@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Jatin khanchi</title>
+  </head>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@500&display=swap"
+    rel="stylesheet"
+  />
+  <style>
+    body {
+      background-color: rgb(159, 196, 252);
+      font-family: "Ysabeau SC", sans-serif;
+    }
+  
+    h1 {
+      text-align: center;
+      background-color: aqua;
+      font-size: 60px;
+    }
+
+    .container {
+      margin-left: 375px;
+      font-size: larger;
+    }
+  </style>
+
+  <body>
+    <h1>Jatin khanchi</h1>
+    <img src="image" alt="my image" class="mid" />
+    <dl class="container">
+      <dt>Student number</dt>
+      <dd>- 90541117633</dd>
+      <dt>Program name</dt>
+      <dd>- Interactive Media Design</dd>
+      <dt>Course code and name</dt>
+      <dd>- MTM6201 Web Developing II</dd>
+      <dt>Interesting fact</dt>
+      <dd>- "life is so ironic, it takes sadness to know what happiness was."</dd>
+    </dl>
+  </body>
+</html>
